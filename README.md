@@ -11,6 +11,7 @@ Nessa atividade foi codado o Website Gamer Mania, o layout e a codificação do 
 ✔️ HTML5 </br>
 ✔️ CSS3 </br>
 ✔️ Figma </br>
+❌ No-Responsive </br>
 
 ## 👨🏻‍💻AUTOR
 <a href="https://github.com/davydcristiano" style="align: center" width="90px">

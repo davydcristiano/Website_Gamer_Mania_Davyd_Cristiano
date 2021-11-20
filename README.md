@@ -2,7 +2,7 @@
 
 # Website Gamer Mania!
 
-Nessa atividade foi codado o Website Gamer Mania, o layout e a codificação do mesmo foi feito por mim. </br>
+Nessa atividade foi codado o Website Gamer Mania, o layout e a codificação do mesmo foi feito por mim. </br> Essa versão é para a atividade da UC1 de codificação do layout com - HTML5 e CSS3 - PURO/Sem Responsividade!
 
 
 <img src="https://user-images.githubusercontent.com/53920878/138993039-858a73af-5e81-48c0-bdea-03f786b7b4bf.png" width="700px" align="center"></img>
